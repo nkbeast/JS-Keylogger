@@ -1,5 +1,5 @@
 // Discord webhook URL - replace with your actual webhook URL
-const webhookUrl = '';
+const webhookUrl = 'http://discord';
 
 // Function to send data to Discord
 function sendToDiscord(data) {
